@@ -34,3 +34,5 @@ jobs:
           fi
           git commit -m "Add Buffer test images"
           git push
+
+# trigger second push
